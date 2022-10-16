@@ -1,0 +1,12 @@
+public class FarmerCreditManager extends BaseCreditManager{
+    
+}
+
+
+public class SoldierCreditManager extends BaseCreditManager{
+    
+}
+
+public class TeacherCreditManager extends BaseCreditManager{
+    
+}
